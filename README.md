@@ -6,6 +6,7 @@ Utilizando o array [7, 5, 3, 9, 6, 4, 1], faça o código para percorrer a lista
 remover o valor 4 da lista. Ao final você deve apresentar na tela a lista original, a nova lista e a soma dos valores da nova lista.
 
 ===================================================================
+
 Tarefa 2
 
 Analise o cenário a seguir:
@@ -25,6 +26,7 @@ Dado o resulado acima, qual será o resultado do SQL abaixo?
 SELECT COUNT(Codigo) as TotalFinal FROM Pedido WHERE CodigoComprador <> 123
 
 ===================================================================
+
 
 Tarefa 3
 
