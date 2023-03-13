@@ -105,7 +105,7 @@ public class Program
 
             if (nums_digitados.Contains(valor))
             {
-                Console.WriteLine("Este numero ja foi utilizado antes. Tente novemente.");
+                Console.WriteLine("Este numero ja foi utilizado antes. Tente novemente. ");
                 continue;
             }
             else
